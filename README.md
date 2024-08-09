@@ -1,0 +1,2 @@
+# pathcurse
+Path segment finder
