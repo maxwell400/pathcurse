@@ -11,4 +11,4 @@ argparse, for better usage
 ```
 python3 pathcurse.py --url https://google.com
 ```
-#### *You have to use https://, in case of not using it program crashes (may be fixed)*
+#### *You have to use https:// or http://, in case of not using it program crashes (may be fixed)*
