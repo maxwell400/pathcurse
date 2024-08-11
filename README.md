@@ -1,6 +1,10 @@
 # pathcurse
 Path segment finder
 
+## What is this program?
+Basically this program lists you the links related with <a href=""></a> of the target website.
+It may be reduce the time for gathering information from the website.
+
 ### Required libraries
 ```
 bs4, for parsing and finding path segments
